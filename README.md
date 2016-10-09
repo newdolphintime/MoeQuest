@@ -56,24 +56,6 @@ The meizi of a material design style welfare App & 一款MaterialDesign风格的
 本项目所使用API主要来Gank.io,易源接口,以及抓取各网站数据,若被告知需停止共享与使用，本人会及时删除此页面与整个项目,请您暸解相关情况，并遵守开源协议.
 
 
-## About me
-
-[![Wercker](https://img.shields.io/badge/weibo-HotBitmapGG-blue.svg)](http://weibo.com/3223089177/profile?topnav=1&wvr=6&is_all=1)
-
-An android developer in Wuhan.
-
-If you want to make friends with me, You can focus on my weibo.
-
-
-## License
-
- Copyright 2016 HotBitmapGG
-
- Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
- http://www.apache.org/licenses/LICENSE-2.0
-
- Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 
 
